@@ -1,10 +1,9 @@
-# 📝 test2
+ 📝 test2
 
 > jhj
 
 ---
-
-## 💡 What is this file?
+💡 What is this file?
 
 This is a **Markdown file** — a simple way to write formatted notes that any AI (ChatGPT, Claude, Gemini, etc.) can read and understand.
 
